@@ -1,0 +1,6 @@
+C:\Users\IMac10\source\repos\Matematika\MyMatematiks\bin\Debug\MyMatematiks.dll
+C:\Users\IMac10\source\repos\Matematika\MyMatematiks\bin\Debug\MyMatematiks.pdb
+C:\Users\IMac10\source\repos\Matematika\MyMatematiks\obj\Debug\MyMatematiks.csproj.AssemblyReference.cache
+C:\Users\IMac10\source\repos\Matematika\MyMatematiks\obj\Debug\MyMatematiks.csproj.CoreCompileInputs.cache
+C:\Users\IMac10\source\repos\Matematika\MyMatematiks\obj\Debug\MyMatematiks.dll
+C:\Users\IMac10\source\repos\Matematika\MyMatematiks\obj\Debug\MyMatematiks.pdb

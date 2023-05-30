@@ -1,0 +1,11 @@
+C:\Users\IMac10\source\repos\Matematika\Mathapp\bin\Debug\Mathapp.exe.config
+C:\Users\IMac10\source\repos\Matematika\Mathapp\bin\Debug\Mathapp.exe
+C:\Users\IMac10\source\repos\Matematika\Mathapp\bin\Debug\Mathapp.pdb
+C:\Users\IMac10\source\repos\Matematika\Mathapp\bin\Debug\MyMatematiks.dll
+C:\Users\IMac10\source\repos\Matematika\Mathapp\bin\Debug\MyMatematiks.pdb
+C:\Users\IMac10\source\repos\Matematika\Mathapp\obj\Debug\Mathapp.csproj.AssemblyReference.cache
+C:\Users\IMac10\source\repos\Matematika\Mathapp\obj\Debug\Mathapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IMac10\source\repos\Matematika\Mathapp\obj\Debug\Mathapp.csproj.CoreCompileInputs.cache
+C:\Users\IMac10\source\repos\Matematika\Mathapp\obj\Debug\Mathapp.csproj.CopyComplete
+C:\Users\IMac10\source\repos\Matematika\Mathapp\obj\Debug\Mathapp.exe
+C:\Users\IMac10\source\repos\Matematika\Mathapp\obj\Debug\Mathapp.pdb
